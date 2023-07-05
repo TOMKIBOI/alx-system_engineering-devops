@@ -1,3 +1,4 @@
 Shell Basics
 displaying the content of the current directory
-2-bring_me_home
+2-bring_me_hom
+long listinge
