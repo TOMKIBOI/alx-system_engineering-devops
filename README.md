@@ -1,1 +1,2 @@
-This is all about shell permisions
+This is all about shell permision
+shell redirections
