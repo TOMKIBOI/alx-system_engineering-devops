@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''
-    this module contains the function top_ten
+    this module querries the reddit api and
+    prints the titles of the first 10 hot post
 '''
 import requests
 from sys import argv
@@ -8,7 +9,7 @@ from sys import argv
 
 def top_ten(subreddit):
     '''
-        returns the top ten posts for a given subreddit
+        returns the top ten hosts posts for the  given subreddit
     '''
     user = {'User-Agent': 'Lizzie'}
     url = requests.get('https://www.reddit.com/r/{}/hot/.json?limit=10'
