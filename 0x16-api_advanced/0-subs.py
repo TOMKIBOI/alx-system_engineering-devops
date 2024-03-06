@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 '''
-    this module querries ressit api and returns the 
+    this module querries ressit api and returns the
     number_of_subscribers
 '''
 import requests
