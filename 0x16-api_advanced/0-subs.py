@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 '''
-    this module contains the function number_of_subscribers
+    this module querries ressit api and returns the 
+    number_of_subscribers
 '''
 import requests
 from sys import argv
